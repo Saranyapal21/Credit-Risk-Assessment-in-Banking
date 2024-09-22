@@ -1,2 +1,4 @@
 # Credit-Risk-Assessment-in-Banking
-Course project done as part of the course MBA786M, Alert Models In Finance. Intructor: Prof. Parvati Neelakantan
+This project assesses the credit quality of bank customers using machine learning.
+The dataset includes various customer attributes, with a binary target variable
+classifying customers as "Good" or "Bad."
